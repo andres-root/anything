@@ -1,4 +1,4 @@
 anything
 ========
 
-Any pull request will be accepted
+Not all pull requests will be accepted
